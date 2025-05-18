@@ -23,7 +23,6 @@ export default function RootLayout({ children }) {
       >
         <Provider>
           {children}
-          <AiCatBubble />
         </Provider>
         
       </body>

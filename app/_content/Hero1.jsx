@@ -10,7 +10,7 @@ function Hero1() {
       <div className='justify-center mb-20 lg:mb-30 xl:mb-40 2xl:mb-50'>
         <h1 className='text-primary text-2xl lg:text-3xl xl:text-4xl 2xl:text-4xl tracking-wide font-bold mb-4'>Welcome, Devoted Disciple of the Divine Paw!</h1>
         <p className='text-2xl text-white mb-6'>
-          You’ve entered the sacred sanctuary of the Cult of Cats — where whiskers rule, naps are sacred, and every meow is a blessing. Bow to the feline overlords, bask in their fluffy wisdom, and let the purring guide your soul.
+          You’ve entered the sacred sanctuary of the Cult of Cats — where whiskers rule, naps are sacred, and every meow is a blessing. Bow to the feline overlords, bask in their fluffy wisdom, and let the purring guide your soul...
         </p>
          <ScrollLink 
           to="hero2" 
